@@ -23,6 +23,7 @@ const incrementor = (() => {
     };
     return f;
 })();
+
 const asyncIncrementor = () => {};
 const createIncrementer = () => {};
 
@@ -30,7 +31,7 @@ const createIncrementer = () => {};
 const returnBackInSecond = () => {};
 const getDeepPropertiesCount = () => {};
 const createSerializedObject = () => {
-    
+    return null;
 };
 const toBuffer = () => {};
 const sortByProto = (arr) => {
